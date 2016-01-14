@@ -1,5 +1,5 @@
 
 $(document).ready(function() {
 
-	$("#heart").text('&clubs;');
+	//$("#heart").text('&clubs;');
 });
