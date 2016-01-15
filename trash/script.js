@@ -1,5 +1,9 @@
+var heartSymbol = "&hearts;"
+var diamondSymbol = "&diams;"
+var spadeSymbol = "&spades;"
+var clubSymbol = "&clubs;"
 
 $(document).ready(function() {
-
-	//$("#heart").text('&clubs;');
+	$("#he").html(heartSymbol);
+	$("#club").html(clubSymbol)
 });
