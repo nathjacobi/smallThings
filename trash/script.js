@@ -20,7 +20,7 @@ function setCards() {
 
 $(document).ready(function() {
 	setCards();
-	$("#he").html(fclub);
+	$("#he").html(clubCards[0]);
 	$("#deckClub").html(clubCards)
 	$("#deckSpade").html(spadeCards)
 	$("#deckDiamond").html(diamondCards)
